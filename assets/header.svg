@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Gustavo Camargo</title>
+  <desc id="desc">Software Developer | Professor &amp; IT Instructor. Banner com fundo azul escuro, detalhes em ciano e roxo e elementos de um editor de código.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1224"/><stop offset="1" stop-color="#171833"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#38BDF8"/><stop offset="0.5" stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#94A3B8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="420" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="420" rx="20" fill="url(#grid)"/>
+  <path d="M28 70H1172" stroke="#334155"/>
+  <g fill="#64748B"><circle cx="44" cy="38" r="5"/><circle cx="64" cy="38" r="5"/><circle cx="84" cy="38" r="5"/></g>
+  <text x="112" y="44" fill="#CBD5E1" font-family="Consolas,monospace" font-size="16">gustavocleite / profile</text>
+  <text x="64" y="134" fill="#67E8F9" font-family="Consolas,monospace" font-size="17" letter-spacing="3">DESENVOLVIMENTO + EDUCAÇÃO</text>
+  <text x="60" y="220" fill="#F8FAFC" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="72" letter-spacing="-2">Gustavo Camargo</text>
+  <text x="64" y="270" fill="#CBD5E1" font-family="Segoe UI,Arial,sans-serif" font-size="27">Software Developer | Professor &amp; IT Instructor</text>
+  <rect x="64" y="310" width="92" height="4" rx="2" fill="url(#accent)"/>
+  <text x="64" y="365" fill="#94A3B8" font-family="Consolas,monospace" font-size="18">conhecimento → código → soluções</text>
+  <g transform="translate(974 158)" fill="none" stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"><path d="M22 0L0 24L22 48M90 0L112 24L90 48M67 -12L45 60"/></g>
+  <path d="M850 340H1110M930 364H1110" stroke="#A78BFA" stroke-opacity=".18" stroke-width="2"/>
+  <rect x="28" y="401" width="1144" height="2" rx="1" fill="url(#accent)"/>
+</svg>
