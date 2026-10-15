@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-camargo-7949a230/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="#projetos-em-destaque">Projetos</a> &nbsp;·&nbsp;
+  <a href="#-github-stats">GitHub Stats</a> &nbsp;·&nbsp;
   <a href="https://github.com/gustavocleite?tab=repositories">Todos os repositórios</a>
 </p>
 
@@ -20,9 +20,11 @@ Meu trabalho reúne desenvolvimento de aplicações, programação orientada a o
 
 Nos repositórios públicos, compartilho projetos em Java e uma aplicação Angular que consome uma API, além de exemplos de manipulação de arquivos utilizados no ensino de Engenharia de Software.
 
+Ultimamente, tenho trabalhado principalmente com **Node.js, Next.js e React** no desenvolvimento de aplicações web.
+
 ## Tech stack
 
-Tecnologias identificadas nos projetos públicos e na minha apresentação profissional.
+Tecnologias que utilizo no desenvolvimento e no ensino de TI, com foco atual em Node.js, Next.js e React.
 
 **Linguagens**
 
@@ -32,7 +34,13 @@ Tecnologias identificadas nos projetos públicos e na minha apresentação profi
 
 **Frontend**
 
+![React](https://img.shields.io/badge/React-1E293B?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1E293B?style=flat-square&logo=nextdotjs&logoColor=F8FAFC)
 ![Angular](https://img.shields.io/badge/Angular-1E293B?style=flat-square&logo=angular&logoColor=C4B5FD)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-1E293B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 
 **Ferramentas de desenvolvimento**
 
@@ -43,51 +51,26 @@ Tecnologias identificadas nos projetos públicos e na minha apresentação profi
 
 ![Consumo de API](https://img.shields.io/badge/Consumo_de_API-1E293B?style=flat-square&logoColor=67E8F9)
 
-## Projetos em destaque
+## 📊 GitHub Stats
 
-<!-- Para adicionar um projeto, repita um bloco com título, descrição, tecnologias e link. -->
+<p align="center">
+  <a href="https://github.com/gustavocleite">
+    <img width="55%" src="https://github-stats-extended.vercel.app/api?username=gustavocleite&amp;custom_title=Gustavo%20Camargo%20%7C%20GitHub%20Stats&amp;show_icons=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=F0F6FC&amp;hide_border=true&amp;border_radius=8&amp;disable_animations=true" alt="Estatísticas do GitHub de Gustavo Camargo: estrelas, commits, pull requests, issues e contribuições" />
+  </a>
+  <a href="https://github.com/gustavocleite?tab=repositories">
+    <img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gustavocleite&amp;layout=compact&amp;langs_count=6&amp;card_width=350&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=F0F6FC&amp;hide_border=true&amp;border_radius=8&amp;disable_animations=true" alt="Linguagens mais usadas nos repositórios públicos de Gustavo Camargo" />
+  </a>
+</p>
 
-### 01 · SCGV
+<p align="center">
+  <a href="https://github.com/gustavocleite?tab=overview">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=gustavocleite&amp;background=0D1117&amp;border=0D1117&amp;stroke=58A6FF&amp;ring=58A6FF&amp;fire=F97316&amp;currStreakNum=67E8F9&amp;sideNums=67E8F9&amp;currStreakLabel=58A6FF&amp;sideLabels=67E8F9&amp;dates=F0F6FC&amp;hide_border=true&amp;border_radius=8&amp;disable_animations=true" alt="Contribuições totais, sequência atual e maior sequência de contribuições de Gustavo Camargo" />
+  </a>
+</p>
 
-**Gestão de gastos veiculares**
-
-Sistema de Controle de Gastos Veicular desenvolvido em Java. Um projeto voltado à aplicação da programação em um contexto de gestão.
-
-`Java` &nbsp; **[Explorar repositório ↗](https://github.com/gustavocleite/SCGV)**
-
----
-
-### 02 · ecommerce-ads
-
-**Desenvolvimento aplicado à graduação**
-
-Projeto acadêmico de e-commerce do quarto período de ADS, com código em Java e estrutura de construção Maven.
-
-`Java` `Maven` &nbsp; **[Explorar repositório ↗](https://github.com/gustavocleite/ecommerce-ads)**
-
----
-
-### 03 · app-dragon-ball-z
-
-**Frontend e integração com API**
-
-Aplicação Angular que consome a API de Dragon Ball, conectando uma interface web a dados externos.
-
-`TypeScript` `Angular` `Consumo de API` &nbsp; **[Explorar repositório ↗](https://github.com/gustavocleite/app-dragon-ball-z)**
-
----
-
-### 04 · ManipulacaoArquivo
-
-**Código como ferramenta de ensino**
-
-Exemplos de manipulação de arquivos em Java para uma turma de graduação em Engenharia de Software. Material que aproxima conceitos de programação e prática em sala de aula.
-
-`Java` `Manipulação de arquivos` &nbsp; **[Explorar repositório ↗](https://github.com/gustavocleite/ManipulacaoArquivo)**
-
-## Atividade no GitHub
-
-Explore meu [histórico de contribuições](https://github.com/gustavocleite?tab=overview) e os [repositórios públicos](https://github.com/gustavocleite?tab=repositories) para acompanhar os projetos e sua evolução.
+<p align="center">
+  <a href="https://github.com/gustavocleite?tab=overview">Ver atividade no GitHub</a>
+</p>
 
 ## Vamos conversar
 
